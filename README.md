@@ -1,6 +1,6 @@
 # Hello~ 👋
 
-### :octocat: My online projects: [https://github.com/PaperplaneJS](https://github.com/PaperplaneJS) **← Some of my projects also place here.**
+### :octocat: My Github Org: [https://github.com/PaperplaneJS](https://github.com/PaperplaneJS) **← Some of my projects also place here.**
 
 ### 🌠 My website: [https://paperplane.cc](https://paperplane.cc)
 
