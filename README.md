@@ -6,4 +6,4 @@
 
 💽 My self-host Git: [https://git.paperplane.cc/jia-niang](https://git.paperplane.cc/jia-niang)
 
-💎 My packages on npm: [https://www.npmjs.com/~jia-niang](https://www.npmjs.com/~jia-niang)
+💎 My npm packages: [https://www.npmjs.com/~jia-niang](https://www.npmjs.com/~jia-niang)
