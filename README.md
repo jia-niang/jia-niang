@@ -1,4 +1,4 @@
-### Hello~ 👋
+### Hello 👋 You can see:
 
 :octocat: My Github Org: [https://github.com/PaperplaneJS](https://github.com/PaperplaneJS) **← Some of my projects also place here.**
 
