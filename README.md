@@ -3,8 +3,6 @@
 🌠 个人网站：[https://paperplane.cc](https://paperplane.cc)  
 📅 我的动态：[https://tl.paperplane.cc](https://tl.paperplane.cc)
 
----
-
 #### 💽 源代码管理和持续集成
 
 我的 Gitea 代码仓库：[https://git.paperplane.cc](https://git.paperplane.cc/jia-niang)  
@@ -13,15 +11,11 @@
 > Github 上的所有仓库均为双向同步的镜像，原始源码由我私有部署的 Gitea 托管；  
 > 持续集成服务同样由私有部署的 Drone CI 执行。
 
----
-
 #### 💎 npm
 
 我的 npm 制品：[https://www.npmjs.com/~jia-niang](https://www.npmjs.com/~jia-niang)  
 Github 组织：[https://github.com/paperplane-npm](https://github.com/paperplane-npm)  
 私有 npm 制品库：[https://npm.p01.cc](https://npm.p01.cc)
-
----
 
 #### 📦 Docker
 
